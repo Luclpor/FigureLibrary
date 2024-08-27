@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9NDaGBldVv3NmgV/0o/H/7P1GvlDGW5abgi6rOm2PtyWYBkRUfLTfI1W41UFTGflZt9v1W0ao3yvqXb0Xo6Rtg==",
+  "dgSpecHash": "9uRrFEzLVM6a1VXKaOrrkxXQZ2RCen6K9nu+ShjciPbUyDNWq0nkCHVYbr+n2I/InDtT67ZYrk0aQqPJ00KERg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibraryTest\\SquareLibraryTest.csproj",
+  "projectFilePath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibraryTest\\SquareLibraryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanya\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\vanya\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",

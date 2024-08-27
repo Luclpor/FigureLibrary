@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\SquareLibrary.csproj": {}
+    "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\SquareLibrary.csproj": {
+    "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\SquareLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
         "projectName": "SquareLibrary",
-        "projectPath": "c:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\SquareLibrary.csproj",
+        "projectPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
         "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\obj\\",
+        "outputPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config",

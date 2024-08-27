@@ -21,7 +21,7 @@ namespace SquareLibrary
 
             return true;    
         }
-        public override void Initialize(Dictionary<string, double> sides)
+        public override void InitializeFields(Dictionary<string, double> sides)
         {
             Type type = this.GetType();
             foreach(var side in sides)

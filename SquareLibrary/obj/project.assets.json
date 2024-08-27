@@ -1747,11 +1747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\SquareLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
       "projectName": "SquareLibrary",
-      "projectPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\SquareLibrary.csproj",
+      "projectPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
       "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\obj\\",
+      "outputPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config",

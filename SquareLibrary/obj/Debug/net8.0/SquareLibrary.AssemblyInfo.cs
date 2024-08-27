@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquareLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a830b13968e165639e402a34ca639ff3f126c84")]
 [assembly: System.Reflection.AssemblyProductAttribute("SquareLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquareLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

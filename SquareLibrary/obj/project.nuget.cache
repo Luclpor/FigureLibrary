@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0lxvoKDAsa9p1Rq9Uc3CzEX56QM6Jsjzl7R97n0wHqvxU14se9yvdMSySXJSMymOUTNMw5LD//lor/neqPEFtQ==",
+  "dgSpecHash": "BMvRSXwVkpbKP8itr1ZxvjV1N4k7UoPz2CggMZMZ83aPu5ls+kfluZuFSyWwrt6XfyVsuInXPJF3UoASeRuLUQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\SquareLibrary\\SquareLibrary.csproj",
+  "projectFilePath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanya\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\vanya\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
