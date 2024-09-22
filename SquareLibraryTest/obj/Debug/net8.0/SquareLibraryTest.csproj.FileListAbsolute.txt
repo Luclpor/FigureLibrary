@@ -176,3 +176,6 @@ C:\Users\vanya\OneDrive\Рабочий стол\csharp\SquareLibraryTest\obj\Deb
 C:\Users\vanya\OneDrive\Рабочий стол\csharp\Figure\FigureLibrary\SquareLibraryTest\obj\Debug\net8.0\SquareLibraryTest.dll
 C:\Users\vanya\OneDrive\Рабочий стол\csharp\Figure\FigureLibrary\SquareLibraryTest\obj\Debug\net8.0\refint\SquareLibraryTest.dll
 C:\Users\vanya\OneDrive\Рабочий стол\csharp\Figure\FigureLibrary\SquareLibraryTest\obj\Debug\net8.0\SquareLibraryTest.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\Projects\FigureLibrary\SquareLibraryTest\obj\Debug\net8.0\SquareLibraryTest.dll
+C:\Users\vanya\OneDrive\Рабочий стол\Projects\FigureLibrary\SquareLibraryTest\obj\Debug\net8.0\refint\SquareLibraryTest.dll
+C:\Users\vanya\OneDrive\Рабочий стол\Projects\FigureLibrary\SquareLibraryTest\obj\Debug\net8.0\SquareLibraryTest.pdb

@@ -572,18 +572,6 @@
           "build/netcoreapp3.1/Microsoft.TestPlatform.TestHost.props": {}
         }
       },
-      "MSTest/3.5.2": {
-        "type": "package",
-        "dependencies": {
-          "MSTest.Analyzers": "[3.5.2]",
-          "MSTest.TestAdapter": "[3.5.2]",
-          "MSTest.TestFramework": "[3.5.2]",
-          "Microsoft.NET.Test.Sdk": "17.10.0"
-        }
-      },
-      "MSTest.Analyzers/3.5.2": {
-        "type": "package"
-      },
       "MSTest.TestAdapter/3.5.2": {
         "type": "package",
         "dependencies": {
@@ -689,19 +677,6 @@
           "lib/netstandard2.0/System.Reflection.Metadata.dll": {
             "related": ".xml"
           }
-        }
-      },
-      "SquareLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "MSTest": "3.5.2"
-        },
-        "compile": {
-          "bin/placeholder/SquareLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SquareLibrary.dll": {}
         }
       }
     }
@@ -1389,37 +1364,6 @@
         "microsoft.testplatform.testhost.nuspec"
       ]
     },
-    "MSTest/3.5.2": {
-      "sha512": "rFn6ZjUJccqHmL45wdEAjgDSMvctMGaq00bg/QkIZ03gPw4DZoXEEIP6PBbp/z51NYYWZJx6bmeS+JbhbcbK2g==",
-      "type": "package",
-      "path": "mstest/3.5.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "PACKAGE.md",
-        "mstest.3.5.2.nupkg.sha512",
-        "mstest.nuspec"
-      ]
-    },
-    "MSTest.Analyzers/3.5.2": {
-      "sha512": "03T/0UPMmkGHpYy0alpExoho6sRM6441P6sFTG3HrWhN+tfxWTkOddv3VUrtKOULgb2g22IJRk7mtD7l6tZpkg==",
-      "type": "package",
-      "path": "mstest.analyzers/3.5.2",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "PACKAGE.md",
-        "analyzers/dotnet/cs/MSTest.Analyzers.CodeFixes.dll",
-        "analyzers/dotnet/cs/MSTest.Analyzers.dll",
-        "mstest.analyzers.3.5.2.nupkg.sha512",
-        "mstest.analyzers.nuspec",
-        "tools/install.ps1",
-        "tools/uninstall.ps1"
-      ]
-    },
     "MSTest.TestAdapter/3.5.2": {
       "sha512": "jEgtMo1/Ih/h0/s+cp+o1prVPBWp/SIh1jfYQH8pK/kQlHMGbwjhnbj0E7kqx3Bn+tGzB6pgq8Im4rgXoLJETA==",
       "type": "package",
@@ -1806,11 +1750,6 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "SquareLibrary/1.0.0": {
-      "type": "project",
-      "path": "../SquareLibrary/SquareLibrary.csproj",
-      "msbuildProject": "../SquareLibrary/SquareLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1818,7 +1757,6 @@
       "MSTest.TestAdapter >= 3.5.2",
       "MSTest.TestFramework >= 3.5.2",
       "Microsoft.NET.Test.Sdk >= 17.10.0",
-      "SquareLibrary >= 1.0.0",
       "coverlet.collector >= 6.0.0"
     ]
   },
@@ -1828,11 +1766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibraryTest\\SquareLibraryTest.csproj",
+      "projectUniqueName": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\Projects\\FigureLibrary\\SquareLibraryTest\\SquareLibraryTest.csproj",
       "projectName": "SquareLibraryTest",
-      "projectPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibraryTest\\SquareLibraryTest.csproj",
+      "projectPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\Projects\\FigureLibrary\\SquareLibraryTest\\SquareLibraryTest.csproj",
       "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibraryTest\\obj\\",
+      "outputPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\Projects\\FigureLibrary\\SquareLibraryTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1843,16 +1781,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/tgbots/Telegram.Bot/_packaging/release/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "c:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj": {
-              "projectPath": "c:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -1903,7 +1839,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

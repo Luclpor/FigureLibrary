@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -20,8 +20,14 @@
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <ProjectReference Include="..\SquareLibrary\SquareLibrary.csproj" />
+  </ItemGroup>-->
+
+  <ItemGroup>
+    <Reference Include="SquareLibrary">
+      <HintPath>..\SquareLibrary\obj\Debug\net8.0\SquareLibrary.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

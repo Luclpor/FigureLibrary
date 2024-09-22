@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj": {}
+    "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\Projects\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj": {
+    "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\Projects\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\Projects\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
         "projectName": "SquareLibrary",
-        "projectPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
+        "projectPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\Projects\\FigureLibrary\\SquareLibrary\\SquareLibrary.csproj",
         "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\csharp\\Figure\\FigureLibrary\\SquareLibrary\\obj\\",
+        "outputPath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\Projects\\FigureLibrary\\SquareLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/tgbots/Telegram.Bot/_packaging/release/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
